@@ -1,8 +1,8 @@
 # Hi there, I'm Rafael! 👋
 
-<img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=r4faelrs&theme=midnight-purple&count_private=true&show_icons=true'>
+<img align=left height='180px'  src = 'https://github-readme-stats.vercel.app/api?username=r4faelrs&theme=midnight-purple&count_private=true&show_icons=true'>
 
-<img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=r4faelrs&theme=midnight-purple' >
+<img align=center height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=r4faelrs&theme=midnight-purple' >
 
 ## Contact
 <a href="https://www.linkedin.com/in/rafaelsilvabr">
