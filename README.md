@@ -2,7 +2,7 @@
 
 <img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=rafaelsilvabr&theme=midnight-purple&count_private=true&show_icons=true'>
 
-<img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvabr&theme=midnight-purple&hide=html,groovy&layout=compact' >
+<img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvabr&theme=midnight-purple&hide=html,groovy,swig&layout=compact' >
 
 
 ## Contact
