@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ol%C3%A1%20Mundo!%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 
 ## 📊 GitHub Stats
-<img align=left height='140px' src='https://github-readme-stats.vercel.app/api?username=rafaelsilvabr&theme=midnight-purple&count_private=true&show_icons=true'>
+<img align=left height='140px' src='https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelsilvabr&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple'>
 <img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvabr&theme=midnight-purple&hide=html,groovy,swig,jupyter%20notebook&layout=compact'>
 
 
