@@ -37,4 +37,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r4faelrs@gmail.com)
 
 ## 🎓 Formação
-- 🎓 Cientista da Computação - UFG
+- 🎓 **Mestrando em Ciência da Computação** - Universidade Federal de Goiás (UFG)  
+  *Especialização em infraestrutura de TI, com foco em sistemas de computação, redes de computadores e tecnologias móveis emergentes (5G/6G).*
+  
+- 🎓 **Bacharel em Ciência da Computação** - Universidade Federal de Goiás (UFG)  
+  *Ênfase em sistemas distribuídos e Internet das Coisas (IoT).*
