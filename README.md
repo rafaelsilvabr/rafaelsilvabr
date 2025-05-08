@@ -13,7 +13,7 @@
 
 ### About me:
 
-I am a Computer Scientist, AWS Certified Solutions Architect, and master's student in computer systems. Currently, I work as a Solutions Architect, specializing in AWS cloud solutions, IT infrastructure, and DevSecOps.
+I am a Computer Scientist and AWS Certified Solutions Architect, currently working as a DevOps Engineer, where I focus on Kubernetes-native infrastructure, CI/CD pipelines, and cloud automation.
 In my master's research, I focus on mobile networks (5G/6G) and advanced computer systems, exploring innovations in network optimization and next-generation telecommunications.
 My professional expertise includes designing scalable, resilient, and high-availability cloud architectures, leveraging AWS services to optimize performance, security, and cost-efficiency.
 
