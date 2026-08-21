@@ -31,10 +31,3 @@ My professional expertise includes designing scalable, resilient, and high-avail
 
 <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="20"> <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="20">
 
----
-
-### 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelsilvabr&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
-
----
